@@ -1,0 +1,26 @@
+# Virtual environment
+myenv/
+venv/
+.venv/
+
+# Python cache/files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build/test artifacts
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS/editor
+.DS_Store
+.vscode/
