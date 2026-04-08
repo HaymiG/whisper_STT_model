@@ -85,7 +85,7 @@ brew install ffmpeg
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fluentian_internship.git
+git clone https://github.com/HaymiG/whisper_STT_model
 cd fluentian_internship
 ```
 
