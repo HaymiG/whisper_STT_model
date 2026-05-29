@@ -105,9 +105,9 @@ jupyter notebook STT_Project.ipynb
 
 | Model | Parameters | Speed | Accuracy |
 |---|---|---|---|
-| `tiny` | 39M | ⚡⚡⚡⚡⚡ Very Fast | ⭐⭐ Lower |
-| `base` | 74M | ⚡⚡⚡ Fast | ⭐⭐⭐⭐ Good |
-| `small` | 244M | ⚡⚡ Moderate | ⭐⭐⭐⭐⭐ High |
+| `tiny` | 39M |  Very Fast | Lower |
+| `base` | 74M |  Fast | Good |
+| `small` | 244M |  Moderate |  High |
 
 ### Audio Inputs Tested
 
