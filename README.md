@@ -1,4 +1,4 @@
-# 🎤 Speech-to-Text with OpenAI Whisper
+#  Speech-to-Text with OpenAI Whisper
 
 > **Fluentian Internship Programme — Task Round 1**
 > AI Engineer Task: Fine-Tuning STT/TTS Models
@@ -39,7 +39,7 @@ This project demonstrates a **Speech-to-Text (STT)** system using [OpenAI's Whis
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 fluentian_internship/
@@ -52,7 +52,7 @@ fluentian_internship/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Create virtual environment (optional)
 
@@ -80,7 +80,7 @@ brew install ffmpeg
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 1. **Clone the repository:**
 
@@ -111,9 +111,9 @@ jupyter notebook STT_Project.ipynb
 
 ### Audio Inputs Tested
 
-- ✅ Clear speech
-- ✅ Noisy audio
-- ✅ Fast speech
+-  Clear speech
+-  Noisy audio
+-  Fast speech
 
 ---
 
@@ -129,16 +129,16 @@ jupyter notebook STT_Project.ipynb
 
 ---
 
-## ⚠️ Challenges
+##  Challenges
 
-- 🔊 Background noise reduces transcription accuracy
-- 🗣️ Accent variations cause misrecognition (especially with tiny model)
-- 💻 Medium/large models couldn't run on free-tier GPU
-- 🔄 Some audio formats need FFmpeg conversion to WAV
+- Background noise reduces transcription accuracy
+- Accent variations cause misrecognition (especially with tiny model)
+- Medium/large models couldn't run on free-tier GPU
+- Some audio formats need FFmpeg conversion to WAV
 
 ---
 
-## 💻 Low-Compute Fine-Tuning Strategies
+## Low-Compute Fine-Tuning Strategies
 
 | Strategy | Description |
 |---|---|
@@ -181,7 +181,7 @@ jupyter notebook STT_Project.ipynb
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Haymanot Getachew**
 Fluentian Internship Programme — April 2026
